@@ -66,6 +66,10 @@ main {
   font-family: 'Open Sans', sans-serif;
 }
 
+.priceTag {
+  font-style: italic;
+}
+
 .item a {
   font-family: 'Lato', sans-serif;
   text-align: center;
